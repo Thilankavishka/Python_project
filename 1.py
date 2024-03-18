@@ -15,4 +15,4 @@ root.resizable(True,False); #only can resizeable from laft to rigth
 root.iconbitmap('one-finger-click-black-hand-symbol_icon-icons.com_64350.ico')
 #run the window
 root.mainloop();
-print("Hello")
+print("Hello hello")
